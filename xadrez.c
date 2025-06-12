@@ -13,9 +13,19 @@ int main(){
     
     printf("PEÇAS DE CHADREZ\n");
 
+    printf("\n");
+
+    printf("TORRE:\n");
+
+    printf("\n");
+
     for(int j = 0; j < torre; j++){
         printf("direita\n");
     }
+    printf("\n");
+
+    printf("BISPO:\n");
+
     printf("\n");
 
     while(i < bispo){
@@ -23,6 +33,10 @@ int main(){
 
         i++;
     }
+    printf("\n");
+
+    printf("RAINHA:\n");
+
     printf("\n");
 
     i = 0;
